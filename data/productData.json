@@ -1,0 +1,20 @@
+[
+  {
+    "title": "Gave Ged",
+    "price": 100,
+    "recommended": true,
+    "discountInPercent": 0
+  },
+  {
+    "title": "Moppe",
+    "price": 150,
+    "recommended": true,
+    "discountInPercent": 0
+  },
+  {
+    "title": "Stol",
+    "price": 500,
+    "recommended": true,
+    "discountInPercent": 0
+  }
+]

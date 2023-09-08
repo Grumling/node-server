@@ -1,0 +1,34 @@
+[
+  {
+    "firstname": "Peter",
+    "surname": "Hansen",
+    "age": 23,
+    "street": "Borgervej 178",
+    "zipcode": 2150,
+    "email": "peter@gmail.com"
+  },
+  {
+    "firstname": "Henning",
+    "surname": "Mortensen",
+    "age": 18,
+    "street": "Hirsevej 12",
+    "zipcode": 8000,
+    "email": "henning@gmail.com"
+  },
+  {
+    "firstname": "Karen",
+    "surname": "Jensen",
+    "age": 33,
+    "street": "Møllevej 8",
+    "zipcode": 7210,
+    "email": "karen@gmail.com"
+  },
+  {
+    "firstname": "Bente",
+    "surname": "Jensen",
+    "age": 61,
+    "street": "Åvej 92",
+    "zipcode": 6700,
+    "email": "bente@gmail.com"
+  }
+]
